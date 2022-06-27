@@ -2,6 +2,6 @@ Trabalho da cadeira arquitetura de computadores, do curso Ciência da Computaç�
 </br>
 </br>
 Autores:
-Isabel Cristina
+Isabel Cristina e
 <a href="https://github.com/matheusriale">Matheus Ribeiro</a>
 
