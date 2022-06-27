@@ -3,4 +3,5 @@ Trabalho da cadeira arquitetura de computadores, do curso Ciência da Computaç�
 </br>
 Autores:
 Isabel Cristina
-Matheus Ribeiro
+<a href="https://github.com/matheusriale">Matheus Ribeiro</a>
+
